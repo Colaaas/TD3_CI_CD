@@ -1,0 +1,23 @@
+{
+  "name": "td3_ci_cd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colaaas/TD3_CI_CD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Colaaas/TD3_CI_CD/issues"
+  },
+  "homepage": "https://github.com/Colaaas/TD3_CI_CD#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
